@@ -20,7 +20,7 @@ pipeline {
                 id "simple-input"
             }
             steps {
-                echo 'Deploying'
+                echo 'Deploying feature1'
             }
         }
     }
